@@ -1,3 +1,9 @@
+```diff
+- red
++ green
+! orange
+# gray
+```
 # TV动画
 ## &emsp;新番
 ### &emsp;2020
