@@ -55,7 +55,8 @@
 |谭雅战记| 玉响 | beatless| 命运石之门0|
 |~~冰菓~~| 奇迹少女KOBATO（小鸠）| 人渣的本愿|寒蝉鸣泣之时|
 |我们的存在| 寄生兽 | 黑礁 | 三月的狮子|
-|FLCL|Kill La Kill| 达尔文游戏 |
+|FLCL|Kill La Kill| 达尔文游戏 | Happy Sugar Life|
+|未来日记|
 
 
 
